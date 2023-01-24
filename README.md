@@ -2,7 +2,7 @@
 
 # Lorenz Attractor
 
-Visualize [lorenz attractors](https://www.python.org/downloads/).
+Visualize [lorenz attractors](https://en.wikipedia.org/wiki/Lorenz_system).
 
 https://user-images.githubusercontent.com/108455731/214414715-1bdf975d-6ac9-4099-b84a-881a45449a24.mov
 
