@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 lorenz-attractor-video.mov
+lorenz-attractor-video-compressed.mov
