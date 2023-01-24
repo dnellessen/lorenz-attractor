@@ -4,13 +4,11 @@
 
 Visualize [lorenz attractors](https://www.python.org/downloads/).
 
-VIDEO
-
+https://user-images.githubusercontent.com/108455731/214414715-1bdf975d-6ac9-4099-b84a-881a45449a24.mov
 
 ## Installation
 `$ git clone https://github.com/dnellessen/lorenz-attractor.git`\
 or download ZIP.
-
 
 ## Usage
 Expample:\
