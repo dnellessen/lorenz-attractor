@@ -52,7 +52,7 @@ t0, t1 = 0, 10000
 dt = 0.005
 
 coords = np.empty((t1 - t0 + 1, 3))
-coords[0] = (0., 1., 1.05)
+coords[0] = (1., 1., 1.)
 
 for i in range(t1):
     coords[i+1] = coords[i] + lorenz_func(coords[i], rho, sigma, beta)*dt
